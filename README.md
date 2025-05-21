@@ -1,4 +1,4 @@
-# jKefexjs - Deprecated - No Longer in Active Development
+# jKefexjs
 
 HTML5 API jQuery Wrapper
 
